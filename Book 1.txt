@@ -5,3 +5,6 @@ Welcome to sam's learning
 SQL
 JAVA
 API tetsing
+
+Payments knowledge 
+ISO20022
